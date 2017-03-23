@@ -1,0 +1,8 @@
+c:\users\jeobal\documents\visual studio 2015\Projects\PractiquiniDosesini\PractiquiniDosesini\bin\Debug\PractiquiniDosesini.exe.config
+c:\users\jeobal\documents\visual studio 2015\Projects\PractiquiniDosesini\PractiquiniDosesini\bin\Debug\PractiquiniDosesini.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\PractiquiniDosesini\PractiquiniDosesini\bin\Debug\PractiquiniDosesini.pdb
+c:\users\jeobal\documents\visual studio 2015\Projects\PractiquiniDosesini\PractiquiniDosesini\obj\Debug\PractiquiniDosesini.Form1.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\PractiquiniDosesini\PractiquiniDosesini\obj\Debug\PractiquiniDosesini.Properties.Resources.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\PractiquiniDosesini\PractiquiniDosesini\obj\Debug\PractiquiniDosesini.csproj.GenerateResource.Cache
+c:\users\jeobal\documents\visual studio 2015\Projects\PractiquiniDosesini\PractiquiniDosesini\obj\Debug\PractiquiniDosesini.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\PractiquiniDosesini\PractiquiniDosesini\obj\Debug\PractiquiniDosesini.pdb
